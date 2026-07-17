@@ -27,6 +27,7 @@ require_once 'config/init.php';
                 ?>
             </h1>
             <p>Los mejores productos a tu alcance.</p>
+            <h1>Tu viejo estuvo aqui</h1>
         </section>
 
         <!-- Notificaciones de sistema -->
